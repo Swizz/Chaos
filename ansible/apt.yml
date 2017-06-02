@@ -1,5 +1,5 @@
 ---
-- name: ensure required packages are installed and updated
+- name: ensure required packages are installed and updated :)
   hosts: localhost
   connection: local
   tasks:
