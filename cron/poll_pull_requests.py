@@ -10,7 +10,7 @@ import github_api as gh
 
 THIS_DIR = dirname(abspath(__file__))
 
-__log = logging.getLogger("pull_requests")
+__log = logging.getLogger("pull_requests :p")
 
 
 def poll_pull_requests(api):
